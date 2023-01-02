@@ -1,0 +1,43 @@
+* {margin:0 ;
+    padding:0;}
+    
+    
+    .pro1 {
+        background-color: darkorchid;
+        display:flex;
+        
+    }
+    .menu {
+      font-family: 'Kanit', sans-serif;
+      color:lightgray;
+      font-size: 20px;
+      }
+      .home {
+        display:flex;
+        justify-content: flex-start;
+        margin-left: 30px;
+        margin-top: 10px;
+      }
+    .pro2 {
+        display:flex;
+        flex-wrap: wrap;
+        justify-content:center;
+        align-items: center;
+        padding-bottom: 20px;
+        padding-top: 10px;
+        font-size: 20px;
+        font-weight: 200;
+        width:1100px;
+    }
+    .about {
+        color:azure;
+        display:block;
+        margin-right: 60px;
+        font-family:'Kanit', sans-serif;
+    }
+    .girl{
+         height:150px;
+         width:150px;
+         border-radius: 50%;
+         padding-top: 20px;
+    }
